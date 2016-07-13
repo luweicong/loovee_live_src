@@ -1,0 +1,16 @@
+site_name: Loovee的文字
+
+pages:
+- Home: index.md
+- 一些文字:
+    - 6周年，纪念一下: Blog/tibet_6year/tibet_6year.md
+
+- About: about.md
+
+theme: readthedocs
+
+markdown_extensions:
+    - toc:
+        permalink: 
+    - admonition:
+    - smarty
